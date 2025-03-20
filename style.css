@@ -1,0 +1,27 @@
+.navbar {
+  color: white;
+  padding: 10px 15px;
+  background-image: linear-gradient(grey,darkgrey);
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.navbar strong {
+  font-size: 20px;
+}
+
+.start {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  color: white;
+}
+body {
+  margin: 0px;
+  background-image: linear-gradient(red, green, yellow, blue, hotpink)
+}
